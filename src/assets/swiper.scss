@@ -1,0 +1,31 @@
+#pagination1 {
+	.swiper-pagination-bullet-active {
+		background: #fff;
+	}
+}
+#pagination2 {
+	bottom: 0.02rem;
+	.swiper-pagination-bullet {
+		width: 0.15rem;
+		height: 0.02rem;
+		margin: 0.02rem;
+		border-radius: 0px;
+	}
+	.swiper-pagination-bullet-active {
+		background: rgb(71,179,18);
+	}
+}
+#pagination1 {
+	bottom: 0.02rem;
+	width: .35rem;
+	left: 3.1rem;
+	font-size: .14rem;
+	color: #fff;
+	.swiper-pagination-bullet {
+		width: 0.15rem;
+		height: 0.02rem;
+		margin: 0.02rem;
+		border-radius: 0px;
+		
+	}
+}
